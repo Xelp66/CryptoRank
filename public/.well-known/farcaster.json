@@ -8,6 +8,7 @@
     "version": "1",
     "name": "Crypto Rank",
     "homeUrl": "https://crypto-rank-phi.vercel.app",
+    "iconUrl": "https://crypto-rank-phi.vercel.app/icon.png",
     "splashBackgroundColor": "#000000"
   }
 }
