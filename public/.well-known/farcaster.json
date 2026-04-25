@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "YOUR_HEADER",
+    "payload": "YOUR_PAYLOAD",
+    "signature": "YOUR_SIGNATURE"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Your App Name",
+    "iconUrl": "https://crypto-rank-phi.vercel.app/icon.png",
+    "homeUrl": "https://crypto-rank-phi.vercel.app",
+    "imageUrl": "https://crypto-rank-phi.vercel.app/og-image.png",
+    "splashImageUrl": "https://crypto-rank-phi.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://crypto-rank-phi.vercel.app/api/webhook"
+  }
+}
