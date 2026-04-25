@@ -1,0 +1,223 @@
+[
+  {
+    "id": "seed-1",
+    "raterFid": "202",
+    "targetFid": "101",
+    "scores": {
+      "ecosystem": 91,
+      "technical": 78,
+      "market": 88,
+      "community": 82
+    },
+    "comment": "Consistently translates messy DeFi moves into clear signal.",
+    "createdAt": "2026-04-21T09:10:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "raterFid": "303",
+    "targetFid": "101",
+    "scores": {
+      "ecosystem": 89,
+      "technical": 74,
+      "market": 92,
+      "community": 84
+    },
+    "comment": "Strong reads on protocol rotations and market timing.",
+    "createdAt": "2026-04-21T14:40:00.000Z"
+  },
+  {
+    "id": "seed-3",
+    "raterFid": "404",
+    "targetFid": "101",
+    "scores": {
+      "ecosystem": 94,
+      "technical": 79,
+      "market": 86,
+      "community": 90
+    },
+    "comment": "Explains complicated systems without sounding like a whitepaper.",
+    "createdAt": "2026-04-22T08:15:00.000Z"
+  },
+  {
+    "id": "seed-4",
+    "raterFid": "101",
+    "targetFid": "202",
+    "scores": {
+      "ecosystem": 82,
+      "technical": 95,
+      "market": 77,
+      "community": 74
+    },
+    "comment": "If a node goes sideways, this is the person you want in the room.",
+    "createdAt": "2026-04-20T17:25:00.000Z"
+  },
+  {
+    "id": "seed-5",
+    "raterFid": "606",
+    "targetFid": "202",
+    "scores": {
+      "ecosystem": 80,
+      "technical": 97,
+      "market": 73,
+      "community": 76
+    },
+    "comment": "Deep infra intuition and better operational hygiene than most teams.",
+    "createdAt": "2026-04-22T11:00:00.000Z"
+  },
+  {
+    "id": "seed-6",
+    "raterFid": "505",
+    "targetFid": "202",
+    "scores": {
+      "ecosystem": 84,
+      "technical": 93,
+      "market": 75,
+      "community": 79
+    },
+    "comment": "Reliable technical brain with receipts from real testnet work.",
+    "createdAt": "2026-04-23T10:05:00.000Z"
+  },
+  {
+    "id": "seed-7",
+    "raterFid": "101",
+    "targetFid": "303",
+    "scores": {
+      "ecosystem": 85,
+      "technical": 72,
+      "market": 95,
+      "community": 81
+    },
+    "comment": "Finds the interesting edge of a campaign before it gets crowded.",
+    "createdAt": "2026-04-20T12:00:00.000Z"
+  },
+  {
+    "id": "seed-8",
+    "raterFid": "404",
+    "targetFid": "303",
+    "scores": {
+      "ecosystem": 83,
+      "technical": 70,
+      "market": 94,
+      "community": 86
+    },
+    "comment": "Sharp quest radar and surprisingly strong read on people flows too.",
+    "createdAt": "2026-04-22T18:44:00.000Z"
+  },
+  {
+    "id": "seed-9",
+    "raterFid": "202",
+    "targetFid": "303",
+    "scores": {
+      "ecosystem": 81,
+      "technical": 69,
+      "market": 93,
+      "community": 80
+    },
+    "comment": "Alpha hunter with a disciplined filter, not just noise chasing.",
+    "createdAt": "2026-04-23T08:35:00.000Z"
+  },
+  {
+    "id": "seed-10",
+    "raterFid": "101",
+    "targetFid": "404",
+    "scores": {
+      "ecosystem": 88,
+      "technical": 70,
+      "market": 79,
+      "community": 95
+    },
+    "comment": "Community gravity is real here. People actually stay engaged.",
+    "createdAt": "2026-04-20T19:14:00.000Z"
+  },
+  {
+    "id": "seed-11",
+    "raterFid": "505",
+    "targetFid": "404",
+    "scores": {
+      "ecosystem": 86,
+      "technical": 72,
+      "market": 77,
+      "community": 94
+    },
+    "comment": "Brings signal and warmth at the same time, which is rarer than it should be.",
+    "createdAt": "2026-04-23T12:22:00.000Z"
+  },
+  {
+    "id": "seed-12",
+    "raterFid": "303",
+    "targetFid": "404",
+    "scores": {
+      "ecosystem": 87,
+      "technical": 71,
+      "market": 78,
+      "community": 96
+    },
+    "comment": "Knows how to make a Web3 room feel alive instead of extractive.",
+    "createdAt": "2026-04-24T09:01:00.000Z"
+  },
+  {
+    "id": "seed-13",
+    "raterFid": "404",
+    "targetFid": "505",
+    "scores": {
+      "ecosystem": 84,
+      "technical": 75,
+      "market": 85,
+      "community": 89
+    },
+    "comment": "Great instincts for culture shifts and which narratives will actually stick.",
+    "createdAt": "2026-04-22T07:30:00.000Z"
+  },
+  {
+    "id": "seed-14",
+    "raterFid": "202",
+    "targetFid": "505",
+    "scores": {
+      "ecosystem": 86,
+      "technical": 76,
+      "market": 84,
+      "community": 88
+    },
+    "comment": "Strong cross-ecosystem awareness and a real memory for chain behavior.",
+    "createdAt": "2026-04-24T15:40:00.000Z"
+  },
+  {
+    "id": "seed-15",
+    "raterFid": "101",
+    "targetFid": "606",
+    "scores": {
+      "ecosystem": 82,
+      "technical": 90,
+      "market": 80,
+      "community": 77
+    },
+    "comment": "Builder brain with enough market sense to avoid shipping into voids.",
+    "createdAt": "2026-04-22T16:05:00.000Z"
+  },
+  {
+    "id": "seed-16",
+    "raterFid": "202",
+    "targetFid": "606",
+    "scores": {
+      "ecosystem": 84,
+      "technical": 92,
+      "market": 78,
+      "community": 79
+    },
+    "comment": "Understands the moving parts, not just the buzzwords around them.",
+    "createdAt": "2026-04-23T17:27:00.000Z"
+  },
+  {
+    "id": "seed-17",
+    "raterFid": "505",
+    "targetFid": "606",
+    "scores": {
+      "ecosystem": 83,
+      "technical": 91,
+      "market": 79,
+      "community": 80
+    },
+    "comment": "Technical conviction with enough social sense to make it land.",
+    "createdAt": "2026-04-24T11:55:00.000Z"
+  }
+]

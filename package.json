@@ -1,0 +1,10 @@
+{
+  "name": "crypto-knowledge-rating-dynamic-profile",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Farcaster miniapp MVP for peer-rating crypto knowledge and sharing live player cards.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}

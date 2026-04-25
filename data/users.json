@@ -1,0 +1,62 @@
+[
+  {
+    "fid": "101",
+    "username": "mertverse",
+    "displayName": "Mert Verse",
+    "headline": "DeFi route mapper and protocol explainer",
+    "archetype": "Liquidity Tactician",
+    "region": "Istanbul",
+    "badges": ["DeFi", "Research", "Macro"],
+    "theme": ["#d4ff3f", "#1df2c2"]
+  },
+  {
+    "fid": "202",
+    "username": "nodejas",
+    "displayName": "Node JAS",
+    "headline": "Infra-first operator who lives in dashboards",
+    "archetype": "Infra Sentinel",
+    "region": "Berlin",
+    "badges": ["Infra", "Testnets", "Security"],
+    "theme": ["#60f5ff", "#7cff8d"]
+  },
+  {
+    "fid": "303",
+    "username": "airdroparia",
+    "displayName": "Airdrop Aria",
+    "headline": "Quest hunter with a habit of finding upside early",
+    "archetype": "Opportunity Scout",
+    "region": "Lisbon",
+    "badges": ["Alpha", "Quests", "Onchain"],
+    "theme": ["#ffd15c", "#ff7c5c"]
+  },
+  {
+    "fid": "404",
+    "username": "defidani",
+    "displayName": "DeFi Dani",
+    "headline": "Writes sharp explainers and keeps communities warm",
+    "archetype": "Community Captain",
+    "region": "Buenos Aires",
+    "badges": ["Community", "NFTs", "Education"],
+    "theme": ["#ffb85c", "#ffd95c"]
+  },
+  {
+    "fid": "505",
+    "username": "chainmuse",
+    "displayName": "Chain Muse",
+    "headline": "Narrative tracker with strong onchain pattern memory",
+    "archetype": "Narrative Engine",
+    "region": "Seoul",
+    "badges": ["NFT", "Culture", "Narratives"],
+    "theme": ["#8bf07d", "#58d4ff"]
+  },
+  {
+    "fid": "606",
+    "username": "forkpilot",
+    "displayName": "Fork Pilot",
+    "headline": "Builds quietly, ships often, and spots infra weak points",
+    "archetype": "Protocol Mechanic",
+    "region": "Toronto",
+    "badges": ["Builders", "Infra", "MEV"],
+    "theme": ["#ffe16a", "#8ef3ff"]
+  }
+]
